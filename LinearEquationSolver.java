@@ -20,7 +20,6 @@ public class LinearEquationSolver {
             JOptionPane.showMessageDialog(null, result, "Solution", JOptionPane.INFORMATION_MESSAGE);
         }
 
-        // Exit the program
         System.exit(0);
     }
 }
